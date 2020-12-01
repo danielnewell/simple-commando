@@ -1,0 +1,19 @@
+{
+  "name": "simple-commando",
+  "version": "0.1.0",
+  "description": "A simpler commando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielnewell/simple-commando.git"
+  },
+  "author": "Daniel Newell <daniel@simplylunar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielnewell/simple-commando/issues"
+  },
+  "homepage": "https://github.com/danielnewell/simple-commando#readme"
+}
